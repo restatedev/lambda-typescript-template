@@ -143,6 +143,12 @@ For more info on how to deploy manually, check:
 
 - 📖 Explore the [Restate documentation](https://docs.restate.dev)
 - 🔍 Check out more [examples and tutorials](https://github.com/restatedev/examples)
-- 💬 Join the [Restate Discord community](https://discord.gg/skW3AZ6uGd)
+- 💬 Join the [Restate Discord community](https://discord.restate.dev)
 
 Happy building! 🎉
+
+## Using AI coding tools
+
+If you use Claude Code or Codex, then the Restate plugin will automatically be installed. For Cursor, consult the [skills repo README](https://github.com/restatedev/skills).
+
+Plugin repo: https://github.com/restatedev/skills/tree/main
